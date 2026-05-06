@@ -1,0 +1,1121 @@
+index,term,polarity,termFrom,termTo,context
+0,bread,2,4,9,The bread is top notch as well.
+1,delivery times,2,43,57,I have to say they have one of the fastest delivery times in the city.
+2,Food,2,0,4,Food is always fresh and hot- ready to eat!
+3,coffee,2,23,29,Did I mention that the coffee is OUTSTANDING?
+4,place,2,79,84,"Certainly not the best sushi in New York, however, it is always fresh, and the place is very clean, sterile."
+5,people,2,12,18,"I trust the people at Go Sushi, it never disappoints."
+6,Japanese food,2,44,57,"Straight-forward, no surprises, very decent Japanese food."
+7,asian salad,2,28,39,"BEST spicy tuna roll, great asian salad."
+8,spicy tuna roll,2,5,20,"BEST spicy tuna roll, great asian salad."
+9,rose roll,2,8,17,Try the rose roll (not on menu).
+10,menu,1,26,30,Try the rose roll (not on menu).
+11,drinks,2,11,17,"I love the drinks, esp lychee martini, and the food is also VERY good."
+12,lychee martini,2,23,37,"I love the drinks, esp lychee martini, and the food is also VERY good."
+13,food,2,47,51,"I love the drinks, esp lychee martini, and the food is also VERY good."
+14,Nicoise salad,0,24,37,"In fact, this was not a Nicoise salad and was barely eatable."
+15,menu,2,23,27,"While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza."
+16,drinks,1,71,77,"While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza."
+17,dessert pizza,1,91,104,"While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza."
+18,food,2,30,34,"Once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening."
+19,live entertainment,2,39,57,"Once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening."
+20,waiter,0,4,10,Our waiter was horrible; so rude and disinterested.
+21,sangria,0,4,11,The sangria's - watered down.
+22,menu,0,0,4,"menu - uneventful, small."
+23,sushi,2,90,95,Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.
+24,portions,2,106,114,Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.
+25,price,2,135,140,Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.
+26,food,2,6,10,Great food but the service was dreadful!
+27,service,0,19,26,Great food but the service was dreadful!
+28,portions of the food,1,4,24,The portions of the food that came out were mediocre.
+29,waitress's,0,8,18,the two waitress's looked like they had been sucking on lemons.
+30,staff memebers,2,44,58,"From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat."
+31,parking,2,79,86,"From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat."
+32,desserts,2,63,71,We enjoyed ourselves thoroughly and will be going back for the desserts ....
+33,Desserts,2,0,8,Desserts are almost incredible: my personal favorite is their Tart of the Day.
+34,Tart of the Day,2,62,77,Desserts are almost incredible: my personal favorite is their Tart of the Day.
+35,food,2,4,8,"The food was extremely tasty, creatively presented and the wine excellent."
+36,wine,2,59,63,"The food was extremely tasty, creatively presented and the wine excellent."
+37,LASAGNA,2,4,11,THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED.
+38,array of sushi,2,49,63,Harumi Sushi has the freshest and most delicious array of sushi in NYC.
+39,cuisine,2,46,53,"I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff."
+40,owners,2,81,87,"I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff."
+41,staff,2,92,97,"I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff."
+42,indian food,2,31,42,"If you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice."
+43,ambiance,2,61,69,"If you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice."
+44,food,2,25,29,I definitely enjoyed the food as well.
+45,service,2,33,40,"It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable."
+46,garden,2,61,67,"It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable."
+47,food,2,82,86,"It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable."
+48,appetizers,2,93,103,"It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable."
+49,entrees,2,107,114,"It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable."
+50,food,2,4,8,"The food is surprisingly good, and the decor is nice."
+51,decor,2,39,44,"The food is surprisingly good, and the decor is nice."
+52,lunch,0,79,84,How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners!
+53,dinners,0,89,96,How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners!
+54,steaks,0,11,17,Two wasted steaks -- what a crime!
+55,staff,0,4,9,The staff should be a bit more friendly.
+56,meatball parm,2,12,25,I think the meatball parm is good.
+57,latin food,2,40,50,"If you want good tasting, well seasoned latin food eat at Cabana and you can't go wrong."
+58,taglierini with truffles,2,19,43,Definitely try the taglierini with truffles - it was incredible.
+59,staff,2,10,15,"Also, the staff is very attentive and really personable."
+60,gnocchi,2,4,11,The gnocchi literally melts in your mouth!
+61,staff,2,35,40,Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+62,food,2,55,59,Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+63,portion size,2,83,95,Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+64,portobello/gorgonzola/sausage appetizer,2,127,166,Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+65,lobster risotto,2,175,190,Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+66,Entrees,1,0,7,"Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana."
+67,lasagna,1,30,37,"Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana."
+68,fettuccine Alfredo,1,39,57,"Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana."
+69,chicken parmigiana,1,62,80,"Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana."
+70,food,2,4,8,"The food is good, the teriyaki I recommend."
+71,teriyaki,2,22,30,"The food is good, the teriyaki I recommend."
+72,Meal,0,0,4,Meal was very expensive for what you get.
+73,Peanut Butter Sorbet,2,8,28,Try the Peanut Butter Sorbet and the pizza with soy cheese!
+74,pizza with soy cheese,2,37,58,Try the Peanut Butter Sorbet and the pizza with soy cheese!
+75,food,2,5,9,"Good food at the right price, what more can you ask for."
+76,price,2,23,28,"Good food at the right price, what more can you ask for."
+77,food,2,4,8,"The food is top notch, the service is attentive, and the atmosphere is great."
+78,service,2,27,34,"The food is top notch, the service is attentive, and the atmosphere is great."
+79,atmosphere,2,57,67,"The food is top notch, the service is attentive, and the atmosphere is great."
+80,food,2,6,10,"Great food, great waitstaff, great atmosphere, and best of all GREAT beer!"
+81,waitstaff,2,18,27,"Great food, great waitstaff, great atmosphere, and best of all GREAT beer!"
+82,atmosphere,2,35,45,"Great food, great waitstaff, great atmosphere, and best of all GREAT beer!"
+83,beer,2,69,73,"Great food, great waitstaff, great atmosphere, and best of all GREAT beer!"
+84,food,2,66,70,this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.
+85,kimono shrimp special,2,101,122,this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.
+86,atmosphere,2,154,164,this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.
+87,menu,2,4,8,The menu is interesting and quite reasonably priced.
+88,priced,2,45,51,The menu is interesting and quite reasonably priced.
+89,food,2,4,8,The food was delicious and clearly fresh ingredients were used.
+90,ingredients,2,41,52,The food was delicious and clearly fresh ingredients were used.
+91,food,0,30,34,This made it obvious that the food wasn't cooked fresh; it was obviously made before hand and then reheated.
+92,Appetizer,2,0,9,Appetizer are excellent here; you can make a great (and inexpensive) meal out of them.
+93,meal,2,69,73,Appetizer are excellent here; you can make a great (and inexpensive) meal out of them.
+94,spicy mussels,2,4,17,The spicy mussels are a highlight.
+95,Onion Rings,2,13,24,Also get the Onion Rings -- best we've ever had.
+96,food,0,62,66,"However, being foodies, we were utterly disappointed with the food."
+97,portions,2,5,13,"Huge portions, great and attentive service, and pretty good prices."
+98,service,2,35,42,"Huge portions, great and attentive service, and pretty good prices."
+99,prices,2,60,66,"Huge portions, great and attentive service, and pretty good prices."
+100,service,0,35,42,I was highly disappointed by their service and food.
+101,food,0,47,51,I was highly disappointed by their service and food.
+102,waiter,0,20,26,"I complained to the waiter and then to the manager, but the intensity of rudeness from them just went up."
+103,manager,0,43,50,"I complained to the waiter and then to the manager, but the intensity of rudeness from them just went up."
+104,food,2,4,8,The food is great and the milkshakes are even better!
+105,milkshakes,2,26,36,The food is great and the milkshakes are even better!
+106,mushroom barley soup,2,4,24,the mushroom barley soup is amazing.
+107,food,2,22,26,"I'm glad I did as the food was very good and the staff was friendly, courteous and efficient."
+108,staff,2,49,54,"I'm glad I did as the food was very good and the staff was friendly, courteous and efficient."
+109,duck,2,6,10,Their duck here is also absolutely delicious.
+110,drinks,2,40,46,"While it was large and a bit noisy, the drinks were fantastic, and the food was superb."
+111,food,2,71,75,"While it was large and a bit noisy, the drinks were fantastic, and the food was superb."
+112,curried casseroles,0,24,42,One caveat: Some of the curried casseroles can be a trifle harsh.
+113,food,2,4,8,The food was almost always EXCELLENT.
+114,taste,2,34,39,I was pleasently surprised at the taste.
+115,seafood,2,131,138,"A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers."
+116,cuisine,2,94,101,"A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers."
+117,orange donut,1,15,27,I never had an orange donut before so I gave it a shot.
+118,atmosphere,2,42,52,"they really provide a relaxing, laid-back atmosphere."
+119,meats,0,52,57,This particular location certainly uses substandard meats.
+120,Management,0,4,14,The Management was less than accomodating.
+121,ambience,2,4,12,The ambience is also more laid-back and relaxed.
+122,teas,2,4,8,the teas are great and all the sweets are homemade.
+123,sweets,2,31,37,the teas are great and all the sweets are homemade.
+124,mojitos,2,0,7,mojitos and the service are the best part in there
+125,service,2,16,23,mojitos and the service are the best part in there
+126,Sandwiches,2,0,10,"Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes."
+127,burgers,2,12,19,"Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes."
+128,salads,2,24,30,"Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes."
+129,lemon-dressed cobb,2,41,59,"Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes."
+130,design,2,4,10,The design is very intimate and romantic.
+131,food,2,4,8,The food was wonderful and imaginative.
+132,staff,2,4,9,The staff is very sharp and they look good too.
+133,taste,0,25,30,The worst though was the taste.
+134,fajita,0,4,10,The fajita we tried was tasteless and burned and the mole sauce was way too sweet.
+135,mole sauce,0,53,63,The fajita we tried was tasteless and burned and the mole sauce was way too sweet.
+136,roasted chickens,2,14,30,Stay with the roasted chickens and you'll be fine.
+137,atmosphere,2,4,14,"The atmosphere is warm, comfortable, artsy and sexy."
+138,food,2,4,8,"The food is great (big selection, reasonable prices) and the drinks are really good."
+139,selection,2,23,32,"The food is great (big selection, reasonable prices) and the drinks are really good."
+140,prices,2,45,51,"The food is great (big selection, reasonable prices) and the drinks are really good."
+141,drinks,2,61,67,"The food is great (big selection, reasonable prices) and the drinks are really good."
+142,steak,2,4,9,The steak melted in my mouth.
+143,waiters,2,60,67,"The food did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it."
+144,food,1,4,8,"The food did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it."
+145,priced,2,35,41,"Most importantly, it is reasonably priced."
+146,selection of food,2,4,21,"The selection of food is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great."
+147,atmosphere,2,96,106,"The selection of food is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great."
+148,dessert,0,37,44,"Only suggestion is that you skip the dessert, it was overpriced and fell short on taste."
+149,taste,0,82,87,"Only suggestion is that you skip the dessert, it was overpriced and fell short on taste."
+150,Food,2,0,4,"Food was decent, but not great."
+151,hot dog,0,49,56,i dont know what some people who rave about this hot dog are talking about.
+152,bar,2,46,49,it is a hidden delight complete with a quaint bar and good food.
+153,food,2,59,63,it is a hidden delight complete with a quaint bar and good food.
+154,waiters,0,4,11,The waiters ALWAYS look angry and even ignore their high-tipping regulars.
+155,atmosphere,2,4,14,"the atmosphere is very nice, and a welcome escape from the rest of the SI mall."
+156,food,2,76,80,"Yes, they're a bit more expensive then typical, but then again, so is their food."
+157,wraps,2,19,24,"I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money."
+158,burgers,2,26,33,"I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money."
+159,salads,2,38,44,"I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money."
+160,mango margareta,2,75,90,"I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money."
+161,prices,2,19,25,"Anywhere else, the prices would be 3x as high!"
+162,service,2,4,11,The service we experienced was friendly and good.
+163,waiter,2,4,10,Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with.
+164,staff,0,74,79,Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with.
+165,folding chair,0,4,17,The folding chair I was seated at was uncomfortable.
+166,Service,2,0,7,Service was among the best I have ever had in NYC.
+167,fettucino alfredo,2,4,21,The fettucino alfredo was amazing.
+168,food,2,4,8,The food was very good and I was pleasantly surprised to see so many vegan options.
+169,vegan options,2,69,82,The food was very good and I was pleasantly surprised to see so many vegan options.
+170,Indian food,0,12,23,I know real Indian food and this wasn't it.
+171,Smoked Trout,2,19,31,"Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on..."
+172,Lamb Chops,2,34,44,"Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on..."
+173,Veal Chops,2,46,56,"Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on..."
+174,Rabbit,2,58,64,"Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on..."
+175,potato gratin,2,70,83,"Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on..."
+176,chef,1,14,18,"Even when the chef is not in the house, the food and service are right on target."
+177,food,2,44,48,"Even when the chef is not in the house, the food and service are right on target."
+178,service,2,53,60,"Even when the chef is not in the house, the food and service are right on target."
+179,eggs benedict,2,20,33,Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty.
+180,mussels,2,41,48,Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty.
+181,hamburger,2,62,71,Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty.
+182,waiters,2,4,11,"The waiters were very professional, courteous and attentive."
+183,falafal,0,4,11,The falafal was rather over cooked and dried but the chicken was fine.
+184,chicken,2,53,60,The falafal was rather over cooked and dried but the chicken was fine.
+185,grand marnier shrimp,2,23,43,"I highly reccomend the grand marnier shrimp, it's insanely good."
+186,food,2,38,42,"We been there and we really enjoy the food, was areally great food, and the service was really good."
+187,food,2,62,66,"We been there and we really enjoy the food, was areally great food, and the service was really good."
+188,service,2,76,83,"We been there and we really enjoy the food, was areally great food, and the service was really good."
+189,Desserts,1,0,8,Desserts include flan and sopaipillas.
+190,flan,1,17,21,Desserts include flan and sopaipillas.
+191,sopaipillas,1,26,37,Desserts include flan and sopaipillas.
+192,portions,0,29,37,I was starving and the small portions were driving me crazy!
+193,wait staff,0,4,14,The wait staff was loud and inconsiderate.
+194,food,0,13,17,"However, the food and service and dramatically lacking."
+195,service,0,22,29,"However, the food and service and dramatically lacking."
+196,sushi,0,4,9,The sushi is cut in blocks bigger than my cell phone.
+197,service,2,4,11,"The service is great, my soup always arrives nice and hot."
+198,soup,2,25,29,"The service is great, my soup always arrives nice and hot."
+199,crepes,2,51,57,It had been awhile and I forgot just how delicious crepes can be.
+200,desserts,2,15,23,Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.
+201,creme brulee,2,47,59,Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.
+202,apple tart,2,75,85,Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.
+203,shrimp creole,2,18,31,i had a delicious shrimp creole.
+204,chicken dinner,2,4,18,The chicken dinner was real good.
+205,chili signed food items,0,14,37,Beware of the chili signed food items not unless you want to call the fire department to douse the flames in your mouth.
+206,decor,1,4,9,The decor is designed in a contemporary Japanese style restaurant.
+207,food,2,8,12,but the food was delicious.
+208,coconut rice,2,47,59,"Try the ribs, sizzling beef and couple it with coconut rice."
+209,ribs,2,8,12,"Try the ribs, sizzling beef and couple it with coconut rice."
+210,beef,2,23,27,"Try the ribs, sizzling beef and couple it with coconut rice."
+211,avocado salad,2,4,17,The avocado salad is a personal fave.
+212,honey BBQ rib tips,2,9,27,"And, the honey BBQ rib tips are yummy!"
+213,Chinese food,2,9,21,The BEST Chinese food Uptown!
+214,Service,2,0,7,Service is known for bending over backwards to make everyone happy.
+215,staff,2,4,9,The staff is very friendly.
+216,Waiters,2,0,7,Waiters are very friendly and the pasta is out of this world.
+217,pasta,2,34,39,Waiters are very friendly and the pasta is out of this world.
+218,wine list,2,6,15,Great wine list and great cocktail menu.
+219,cocktail menu,2,26,39,Great wine list and great cocktail menu.
+220,crab cakes,2,4,14,The crab cakes are delicious and the BBQ rib was perfect.
+221,BBQ rib,2,37,44,The crab cakes are delicious and the BBQ rib was perfect.
+222,food,2,4,8,"The food is wonderful, artfully done and simply delicious."
+223,service,2,31,38,Tiny restaurant with very fast service.
+224,service,2,90,97,My husband and I have been there at least 6 times and we've always been given the highest service and often free desserts.
+225,desserts,2,113,121,My husband and I have been there at least 6 times and we've always been given the highest service and often free desserts.
+226,atmosphere,2,12,22,"A beautiful atmosphere, perfect for drinks and/or appetizers."
+227,drinks,1,36,42,"A beautiful atmosphere, perfect for drinks and/or appetizers."
+228,appetizers,1,50,60,"A beautiful atmosphere, perfect for drinks and/or appetizers."
+229,pizza,2,19,24,They make the best pizza in New Jersey.
+230,service,2,23,30,"What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list."
+231,food,2,59,63,"What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list."
+232,beer list,2,150,159,"What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list."
+233,chinese food,0,13,25,"Frankly, the chinese food here is something I can make better at home."
+234,waiter,1,19,25,There was only one waiter for the whole restaurant upstairs.
+235,scallops,1,20,28,We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.
+236,asparagus,1,33,42,We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.
+237,soft shell crab,1,60,75,We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.
+238,cheese plate,1,91,103,We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.
+239,service,2,26,33,"Not to be overlooked, the service is excellent."
+240,hotdogs,0,42,49,this without question is one of the worst hotdogs i have ever had.
+241,staff,2,4,9,"The staff is unbelievably friendly, and I dream about their Saag gosht...so good."
+242,Saag gosht,2,60,70,"The staff is unbelievably friendly, and I dream about their Saag gosht...so good."
+243,garlic knots,2,21,33,I also recommend the garlic knots.
+244,Indian food,2,5,16,Best Indian food I have ever eaten.
+245,pizza,2,24,29,This place has the best pizza.
+246,music,0,4,9,The music which is sometimes a little too heavy for my taste.
+247,service,2,4,11,The service is excellent and always informative without an air.
+248,owner,2,4,9,The owner and staff go to great lengths to make you feel comfortable.
+249,staff,2,14,19,The owner and staff go to great lengths to make you feel comfortable.
+250,sushi,2,4,9,The sushi is always fresh and yummy and the menu is pretty varied.
+251,menu,2,44,48,The sushi is always fresh and yummy and the menu is pretty varied.
+252,food,2,4,8,"The food was great - sushi was good, but the cooked food amazed us."
+253,sushi,2,21,26,"The food was great - sushi was good, but the cooked food amazed us."
+254,cooked food,2,45,56,"The food was great - sushi was good, but the cooked food amazed us."
+255,dinner specials,2,6,21,their dinner specials are fantastic.
+256,food,2,6,10,"Great food, great drinks, nice dining atmosphere."
+257,drinks,2,18,24,"Great food, great drinks, nice dining atmosphere."
+258,dining atmosphere,2,31,48,"Great food, great drinks, nice dining atmosphere."
+259,price,0,8,13,"For the price you pay for the food here, you'd expect it to be at least on par with other Japanese restaurants."
+260,food,0,30,34,"For the price you pay for the food here, you'd expect it to be at least on par with other Japanese restaurants."
+261,Food portion,0,0,12,Food portion was SMALL and below average.
+262,chairs,2,37,43,Sit back in one of those comfortable chairs.
+263,Tacos Pastor,2,21,33,My favs here are the Tacos Pastor and the Tostada de Tinga...
+264,Tostada de Tinga,2,42,58,My favs here are the Tacos Pastor and the Tostada de Tinga...
+265,bartenders,2,4,14,"The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy."
+266,managers,2,23,31,"The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy."
+267,decor,2,56,61,"The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy."
+268,hot and sour soup,2,57,74,"For a savory take on the soup and sandwich meal, try the hot and sour soup."
+269,soup and sandwich meal,2,25,47,"For a savory take on the soup and sandwich meal, try the hot and sour soup."
+270,drinks,2,28,34,"This bar has it all - great drinks, cool atmosphere, excellent service and delicious food."
+271,atmosphere,2,41,51,"This bar has it all - great drinks, cool atmosphere, excellent service and delicious food."
+272,service,2,63,70,"This bar has it all - great drinks, cool atmosphere, excellent service and delicious food."
+273,food,2,85,89,"This bar has it all - great drinks, cool atmosphere, excellent service and delicious food."
+274,chick peas with shrimp (appetizer),2,10,44,"Also, the chick peas with shrimp (appetizer) is divine."
+275,service,0,31,38,"Finally, I got sick of the bad service, obnoxious smirks, and snotty back talk."
+276,lamb,2,11,15,We ordered lamb which was perfectly cooked and tasted awesome.
+277,soft shell crab sandwich with fries,2,24,59,i especially like their soft shell crab sandwich with fries.
+278,hong kong-style food,2,32,52,"if you're looking for authentic hong kong-style food, look no further."
+279,food,2,5,9,good food good wine that's it.
+280,wine,2,15,19,good food good wine that's it.
+281,staff,2,4,9,The staff was extremely friendly and pleasant.
+282,kitchen food,2,12,24,"While their kitchen food is delicious, their Sushi is out of this world."
+283,Sushi,2,45,50,"While their kitchen food is delicious, their Sushi is out of this world."
+284,service,2,46,53,"everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere."
+285,waitresses,2,62,72,"everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere."
+286,atmosphere,2,96,106,"everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere."
+287,italian food,2,25,37,"It's traditional, simple italian food."
+288,food,2,4,8,"The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level."
+289,rolls,2,38,43,"The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level."
+290,sushi/sashimi,1,70,83,"The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level."
+291,sashimi,0,5,12,(The sashimi is cut a little thinly.
+292,price,0,34,39,Could have had better for 1/3 the price in Chinatown.
+293,hot dogs,2,21,29,"In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham."
+294,breakfast sandwiches,2,50,70,"In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham."
+295,tator tots,2,118,128,"In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham."
+296,English muffins,2,133,148,"In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham."
+297,Taylor ham,2,220,230,"In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham."
+298,pork product,2,171,183,"In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham."
+299,manager,0,41,48,"Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out."
+300,bartender,0,60,69,"Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out."
+301,drinks,1,104,110,"Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out."
+302,waiting,0,81,88,"Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out."
+303,service,2,16,23,"Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable."
+304,atmosphere,2,94,104,"Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable."
+305,green chillis,0,42,55,"When the dish arrived it was blazing with green chillis, definitely not edible by a human."
+306,dish,0,9,13,"When the dish arrived it was blazing with green chillis, definitely not edible by a human."
+307,service,0,19,26,The absolute worst service I've ever experienced and the food was below average (when they actually gave people the meals they ordered).
+308,food,0,57,61,The absolute worst service I've ever experienced and the food was below average (when they actually gave people the meals they ordered).
+309,meals,1,116,121,The absolute worst service I've ever experienced and the food was below average (when they actually gave people the meals they ordered).
+310,lunch,1,18,23,It's about $7 for lunch and they have take-out or dine-in.
+311,take-out,1,38,46,It's about $7 for lunch and they have take-out or dine-in.
+312,dine-in,1,50,57,It's about $7 for lunch and they have take-out or dine-in.
+313,food,1,26,30,Be sure to accompany your food with one of their fresh juice concoctions.
+314,fresh juice concoctions,2,49,72,Be sure to accompany your food with one of their fresh juice concoctions.
+315,food,2,4,8,The food is great and the prices are reasonable.
+316,prices,2,26,32,The food is great and the prices are reasonable.
+317,place,2,4,9,"The place is clean, and if you like soul food, then this is the place to be!"
+318,soul food,2,36,45,"The place is clean, and if you like soul food, then this is the place to be!"
+319,roast chicken,1,6,19,I had roast chicken and a salad.
+320,salad,1,26,31,I had roast chicken and a salad.
+321,chicken with avocado,2,22,42,They have a very good chicken with avocado and good tuna as well.
+322,tuna,2,52,56,They have a very good chicken with avocado and good tuna as well.
+323,meals,0,8,13,But the meals were terrible.
+324,chicken,0,3,10,My chicken was completely dried out and on the cold side and the sauce was not very flavorful.
+325,sauce,0,65,70,My chicken was completely dried out and on the cold side and the sauce was not very flavorful.
+326,Malted Milk Ball Gelato,2,0,23,Malted Milk Ball Gelato - have you ever in your life heard of anything so ridiculously wonderful?
+327,meal,0,39,43,Way too much money for such a terrible meal.
+328,service,0,13,20,"However, the service is absolutely horrible."
+329,bar service,0,19,30,A con was the slow bar service.
+330,Dessert,2,0,7,Dessert was also to die for!
+331,service,2,9,16,"BTW, the service is very good ."
+332,black vinegar,1,16,29,It's eaten with black vinegar and shredded ginger.
+333,shredded ginger,1,34,49,It's eaten with black vinegar and shredded ginger.
+334,lighting,0,17,25,"The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate."
+335,food,0,51,55,"The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate."
+336,disco pop duo,0,97,110,"The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate."
+337,escargot,0,129,137,"The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate."
+338,place,2,13,18,it is a cozy place to go with a couple of friends.
+339,service,2,4,11,"The service is always great, and the owner walks around to make sure you enjoy."
+340,owner,2,37,42,"The service is always great, and the owner walks around to make sure you enjoy."
+341,waiters,0,12,19,because the waiters need SEVERE ATTITUE ADJUSTMENTS.
+342,food,2,4,8,the food is delicious and highly recommended.
+343,waiter,0,40,46,"When it came time to take the order the waiter gave us a hard time, walked away then came back with a paper and pen for us to write down what we wanted...excuse me but isn't that his job???"
+344,salads,2,17,23,Dieters stick to salads or indulge in vegetarian platters.
+345,vegetarian platters,2,38,57,Dieters stick to salads or indulge in vegetarian platters.
+346,meal,2,29,33,So for a filling and healthy meal give it a go.
+347,food,1,52,56,"Since I cook for a living, I'm very fussy about the food I eat in restaurants."
+348,service,2,4,11,The service was outstanding.
+349,pizza,1,31,36,My friends and I stop here for pizza before hitting the Kips Bay movie theater.
+350,pizza,2,20,25,We always enjoy the pizza.
+351,service,2,4,11,The service is pretty good.
+352,chicken,2,9,16,"Yum, the chicken is great here."
+353,food,2,4,8,"The food here was great, a treat from beginning to end."
+354,host (owner),2,4,16,The host (owner) and servers are personable and caring.
+355,servers,2,21,28,The host (owner) and servers are personable and caring.
+356,food,2,27,31,"It's just everything...the food, the atmosphere...the incrediby kind and gracious hostess."
+357,atmosphere,2,37,47,"It's just everything...the food, the atmosphere...the incrediby kind and gracious hostess."
+358,hostess,2,82,89,"It's just everything...the food, the atmosphere...the incrediby kind and gracious hostess."
+359,food,2,4,8,The food is very good and the service is great.
+360,service,2,30,37,The food is very good and the service is great.
+361,Vietnamese Beef Noodle Soup,1,22,49,I usually get one the Vietnamese Beef Noodle Soup.
+362,dining experience,0,50,67,We were wondering why they were there to make our dining experience miserable?
+363,Indian food,2,24,35,"This place has the best Indian food in New York, hands down."
+364,waiters,2,4,11,The waiters are very friendly and helpful and if you frequent they will remember you.
+365,interior,2,22,30,Intimate but charming interior with extremely friendly and attentive service.
+366,service,2,69,76,Intimate but charming interior with extremely friendly and attentive service.
+367,food,2,4,8,The food was as creative as the decor and both worked.
+368,decor,2,32,37,The food was as creative as the decor and both worked.
+369,menu,2,4,8,"The menu is great, with a good selection, and everything that I have tried is absolutely delicious."
+370,selection,2,31,40,"The menu is great, with a good selection, and everything that I have tried is absolutely delicious."
+371,sauce,2,4,9,The sauce is zesty and flavorful and the crust is nice and crispy.
+372,crust,2,41,46,The sauce is zesty and flavorful and the crust is nice and crispy.
+373,sushi,2,24,29,This place has the best sushi in the city.
+374,selection,2,23,32,They have an excellent selection (the rolls with crab are really great).
+375,rolls with crab,2,38,53,They have an excellent selection (the rolls with crab are really great).
+376,host,2,30,34,"Everyone who works there (the host, the bartender, the servers) is so helpful."
+377,bartender,2,40,49,"Everyone who works there (the host, the bartender, the servers) is so helpful."
+378,servers,2,55,62,"Everyone who works there (the host, the bartender, the servers) is so helpful."
+379,food,2,8,12,And the food is fantastic.
+380,potato spinach gnocchi,2,20,42,Favourites include: potato spinach gnocchi and the lamb.
+381,lamb,2,51,55,Favourites include: potato spinach gnocchi and the lamb.
+382,lunch,1,38,43,"Unfortunately, we chose this spot for lunch as we had done a lot of walking and ended up at the South St Seaport."
+383,sandwiches,2,27,37,But regulars know that the sandwiches are the real star here.
+384,port,2,65,69,The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending.
+385,Portuguese cheese cart,2,22,44,The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending.
+386,burger,1,16,22,My friend had a burger and I had these wonderful blueberry pancakes.
+387,blueberry pancakes,2,49,67,My friend had a burger and I had these wonderful blueberry pancakes.
+388,food,2,26,30,We were so happy with our food and were even more thrilled when we saw the bill.
+389,bill,2,75,79,We were so happy with our food and were even more thrilled when we saw the bill.
+390,toppings,2,4,12,"All toppings are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made."
+391,crust,2,82,87,"All toppings are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made."
+392,service,2,28,35,We've always gotten amazing service and we love the food.
+393,food,2,52,56,We've always gotten amazing service and we love the food.
+394,waitstaff,2,4,13,"The waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative."
+395,food,2,82,86,"The waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative."
+396,lobster ravioli,2,21,36,I'm in love with the lobster ravioli!
+397,meal,2,100,104,We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our meal.
+398,Service,2,0,7,"Service is excellent, no wait, and you get a lot for the price."
+399,price,2,57,62,"Service is excellent, no wait, and you get a lot for the price."
+400,wait,2,25,29,"Service is excellent, no wait, and you get a lot for the price."
+401,food,0,14,18,I thought the food isn't cheap at all compared to Chinatown.
+402,Coffee,2,0,6,Coffee is a better deal than overpriced Cosi sandwiches.
+403,Cosi sandwiches,0,40,55,Coffee is a better deal than overpriced Cosi sandwiches.
+404,drink,1,36,41,We didn't know if we should order a drink or leave?
+405,prices,2,104,110,") It's not the best Japanese restaurant in the East Village, but it's a pretty solid one for its modest prices, and worth repeat visits."
+406,food,2,4,8,The food is so good and so popular that waiting can really be a nightmare.
+407,waiting,0,40,47,The food is so good and so popular that waiting can really be a nightmare.
+408,place,2,21,26,First walking in the place seemed to have great ambience.
+409,ambience,2,48,56,First walking in the place seemed to have great ambience.
+410,brunch,1,39,45,I went to Kitchenette this weekend for brunch.
+411,food,2,51,55,Even for two very hungry people there is plenty of food left to be taken home (it reheats really well also).
+412,crust,0,39,44,"Then they somehow made a dry and burnt crust, around a raw and cold inside."
+413,food,2,15,19,"It's just good food, nothing more and that's all we want!"
+414,cake,0,8,12,Average cake thats been courted by a LOT of hype.
+415,dinner,1,46,52,My wife and I recently visited the bistro for dinner and had a wonderful experience.
+416,SERVICE,2,4,11,THE SERVICE IS PERFECT TOO  NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT
+417,Delmonico steak,0,8,23,The $72 Delmonico steak had to be sent back because it was not cooked to order.
+418,menu,0,70,74,Everytime I go there I can't pick anything to eat and not because the menu is filled with great things to eat.
+419,rice,1,34,38,Half a chicken with a mountain of rice and beans for $6.25.
+420,beans,1,43,48,Half a chicken with a mountain of rice and beans for $6.25.
+421,chicken,1,7,14,Half a chicken with a mountain of rice and beans for $6.25.
+422,service,2,4,11,"The service is really fast and friendly, and the value is great."
+423,value,2,49,54,"The service is really fast and friendly, and the value is great."
+424,food,2,32,36,We were very impressed with the food and value.
+425,value,2,41,46,We were very impressed with the food and value.
+426,garlic soup,2,17,28,You must try the garlic soup!
+427,falafel,2,29,36,"Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive."
+428,tabouleh,2,38,46,"Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive."
+429,humus,2,48,53,"Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive."
+430,Mediterranean delights,2,64,86,"Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive."
+431,pizza's,2,4,11,"The pizza's are made fresh, crispy, and ready to serve."
+432,Staff,2,0,5,Staff is accomodating make sure you are satified.
+433,Chef,2,0,4,Chef Waldy's always measures up.
+434,sushi,2,34,39,Reasonably priced with very fresh sushi.
+435,priced,2,11,17,Reasonably priced with very fresh sushi.
+436,Seafood Paella for two,2,11,33,Go for the Seafood Paella for two.
+437,apetizers,2,11,20,All of the apetizers are good and the Sangria is very good.
+438,Sangria,2,38,45,All of the apetizers are good and the Sangria is very good.
+439,service,2,45,52,"The one positive thing I can say is that the service was prompt, we got seated right away and the server was very friendly."
+440,server,2,98,104,"The one positive thing I can say is that the service was prompt, we got seated right away and the server was very friendly."
+441,staff,2,4,9,The staff greeted me warmly at the door and I was seated promptly and the food was excellent.
+442,food,2,74,78,The staff greeted me warmly at the door and I was seated promptly and the food was excellent.
+443,Service,2,0,7,Service is usually pretty good.
+444,Host,0,0,4,Host and Hostess was quite rude.
+445,Hostess,0,9,16,Host and Hostess was quite rude.
+446,wait staff,2,4,14,"the wait staff is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -."
+447,meal,2,69,73,"the wait staff is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -."
+448,salmon dishes,2,25,38,I recommend any of their salmon dishes......
+449,foie gras,2,4,13,The foie gras was sweet and luscious.
+450,menu,1,4,8,"The menu, which changes seasonally, shows both regional and international influences."
+451,mac cheese,2,10,20,but their mac cheese was YUMMY!
+452,brunch menu,2,6,17,their brunch menu had something for everyone.
+453,jazz singer,2,0,11,jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more.
+454,service,2,21,28,They have very quick service which is great when you don't have much time.
+455,food,1,4,8,"The food is average: breakfast food, soups, salads, sandwiches, etc."
+456,breakfast food,1,21,35,"The food is average: breakfast food, soups, salads, sandwiches, etc."
+457,soups,1,37,42,"The food is average: breakfast food, soups, salads, sandwiches, etc."
+458,salads,1,44,50,"The food is average: breakfast food, soups, salads, sandwiches, etc."
+459,sandwiches,1,52,62,"The food is average: breakfast food, soups, salads, sandwiches, etc."
+460,FOOD,0,33,37,I WAS HIGHLY DISAPPOINTED BY THE FOOD.
+461,BANANA PUDDING,0,4,18,"THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE."
+462,CRABCAKES,0,57,66,"THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE."
+463,MAC AND CHEESE,0,131,145,"THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE."
+464,staff,0,4,9,"The staff is arrogant, the prices are way high for Brooklyn."
+465,prices,0,27,33,"The staff is arrogant, the prices are way high for Brooklyn."
+466,service,2,4,11,the service is prompt friendly.
+467,food,2,50,54,This is literally a hot spot when it comes to the food.
+468,downstairs bar scene,2,4,24,The downstairs bar scene is very cool and chill...
+469,food,2,4,8,"The food was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 drinks, $100/person)..."
+470,price,0,97,102,"The food was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 drinks, $100/person)..."
+471,drinks,1,116,122,"The food was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 drinks, $100/person)..."
+472,casual lunches,1,19,33,I've come here for casual lunches as well as for a friend's birthday and I always enjoy myself.
+473,Tequila,2,13,20,If you are a Tequila fan you will not be disappointed.
+474,beer selection,2,6,20,"Great beer selection too, something like 50 beers."
+475,beers,1,44,49,"Great beer selection too, something like 50 beers."
+476,delivary,0,45,53,Not to sound too negative but be wary of the delivary.
+477,food,2,12,16,"I found the food to be just as good as its owner, Da Silvano, just much less expensive."
+478,owner,2,43,48,"I found the food to be just as good as its owner, Da Silvano, just much less expensive."
+479,homemade pastas,2,10,25,They have homemade pastas of all kinds -- I recommend the gnocchi -- yum!
+480,gnocchi,2,58,65,They have homemade pastas of all kinds -- I recommend the gnocchi -- yum!
+481,vegetable risotto,0,3,20,"My vegetable risotto was burnt, and infused totally in a burnt flavor."
+482,flavor,0,63,69,"My vegetable risotto was burnt, and infused totally in a burnt flavor."
+483,price,2,35,40,The main draw of this place is the price.
+484,service,0,38,45,How can hope to stay in business with service like this?
+485,dinner,2,4,10,"But dinner here is never disappointing, even if the prices are a bit over the top."
+486,prices,0,52,58,"But dinner here is never disappointing, even if the prices are a bit over the top."
+487,sandwiches,2,32,42,"Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!"
+488,soup,2,44,48,"Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!"
+489,pizza,2,50,55,"Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!"
+490,homemade sorbets,2,71,87,"Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!"
+491,homemade Guacamole,2,4,22,"the homemade Guacamole, the unbelievable entree, and thee most amazing deserts."
+492,entree,2,41,47,"the homemade Guacamole, the unbelievable entree, and thee most amazing deserts."
+493,deserts,2,71,78,"the homemade Guacamole, the unbelievable entree, and thee most amazing deserts."
+494,sushi,2,4,9,The sushi is reasonably priced and fresh.
+495,priced,2,24,30,The sushi is reasonably priced and fresh.
+496,deserts,2,14,21,Save room for deserts - they're to die for.
+497,grill,2,34,39,Best things to order are from the grill (Churrasco and Ribs).
+498,Churrasco,2,41,50,Best things to order are from the grill (Churrasco and Ribs).
+499,Ribs,2,55,59,Best things to order are from the grill (Churrasco and Ribs).
+500,traditional Italian items,2,4,29,The traditional Italian items are great - cheap and served in a cozy setting.
+501,setting,2,69,76,The traditional Italian items are great - cheap and served in a cozy setting.
+502,served,2,52,58,The traditional Italian items are great - cheap and served in a cozy setting.
+503,iced blended mocha,2,24,42,Whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy.
+504,hot white mocha,2,50,65,Whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy.
+505,late lunch,1,19,29,last Tuesday for a late lunch with a friend.
+506,parmesan cheese,1,38,53,Another friend had to ask 3 times for parmesan cheese.
+507,waitress,0,4,12,"Our waitress had apparently never tried any of the food, and there was no one to recommend any wine."
+508,food,1,51,55,"Our waitress had apparently never tried any of the food, and there was no one to recommend any wine."
+509,wine,1,95,99,"Our waitress had apparently never tried any of the food, and there was no one to recommend any wine."
+510,service,0,4,11,"The service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you."
+511,portions,0,35,43,"The service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you."
+512,salad,1,58,63,The unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a quesedilla.
+513,salad dressing,1,86,100,The unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a quesedilla.
+514,quesedilla,1,126,136,The unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a quesedilla.
+515,pizza's,2,119,126,"El Nidos one of the best restaurants in New York which I've ever been to, has a great variety of tasty, mouth watering pizza's."
+516,service,0,4,11,"The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place."
+517,food,0,44,48,"The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place."
+518,cost,0,88,92,"The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place."
+519,food,2,82,86,Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit.
+520,staff,2,111,116,Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit.
+521,bar,1,35,38,I had to wait for my friend at the bar for a few minutes
+522,Chef,2,0,4,"Chef Vincenzo, always there if you need him, is a real talent and a real Roman."
+523,Indian food,2,38,49,"If you're looking to taste some great Indian food and want good service, definitely visit Curry Leaf."
+524,service,2,64,71,"If you're looking to taste some great Indian food and want good service, definitely visit Curry Leaf."
+525,Odessa stew,2,13,24,"You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot)."
+526,Rabbit stew,2,28,39,"You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot)."
+527,salads,2,41,47,"You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot)."
+528,kompot,2,62,68,"You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot)."
+529,lunch,2,97,102,My daughter and I left feeling satisfied (not stuffed) and it felt good to know we had a healthy lunch.
+530,waitress,1,25,33,"When she complained, the waitress said, Sorry."
+531,quality of the meat,0,4,23,The quality of the meat was on par with your local grocery store.
+532,smoothies,2,19,28,They specialize in smoothies and fresh juices.
+533,fresh juices,2,33,45,They specialize in smoothies and fresh juices.
+534,black roasted codfish,2,16,37,"I recommend the black roasted codfish, it was the best dish of the evening."
+535,dish,2,55,59,"I recommend the black roasted codfish, it was the best dish of the evening."
+536,waiter,0,114,120,The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.
+537,menu,1,54,58,The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.
+538,manager,1,4,11,The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.
+539,taste,0,114,119,"In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste."
+540,chicken,0,41,48,"In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste."
+541,reservation,1,45,56,"during busy hrs, i recommend that you make a reservation."
+542,brunch,1,27,33,I went to Common Stock for brunch and I was so impressed.
+543,sushi,1,24,29,"now called nikki sushi, sushi is OK."
+544,food,2,4,8,The food is also outstanding and is served quite quickly.
+545,served,2,36,42,The food is also outstanding and is served quite quickly.
+546,erbazzone emiliana,2,9,27,"From the erbazzone emiliana to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care."
+547,mostarda on the cheese plate,2,35,63,"From the erbazzone emiliana to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care."
+548,dishes,2,69,75,"From the erbazzone emiliana to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care."
+549,food,2,4,8,The food is delicious and the bar has a great vibe.
+550,bar,2,30,33,The food is delicious and the bar has a great vibe.
+551,vibe,2,46,50,The food is delicious and the bar has a great vibe.
+552,candlelight,1,8,19,There's candlelight and music.
+553,music,1,24,29,There's candlelight and music.
+554,food,2,27,31,Simple healthy unglamorous food cheap.
+555,dining experience,2,24,41,"It was such a fantastic dining experience, that I returned again the same week."
+556,food,2,16,20,"To be fair, the food still is good and the service is quick and attentative even though its usually very busy."
+557,service,2,43,50,"To be fair, the food still is good and the service is quick and attentative even though its usually very busy."
+558,place,2,4,9,The place is absolutely adorable and the food is delicious.
+559,food,2,41,45,The place is absolutely adorable and the food is delicious.
+560,Chicken Teriyaki,1,14,30,I ordered the Chicken Teriyaki and my husband got Garlic Shrimp.
+561,Garlic Shrimp,1,50,63,I ordered the Chicken Teriyaki and my husband got Garlic Shrimp.
+562,Japanese food,0,16,29,I've had better Japanese food at a mall food court.
+563,staff members,2,4,17,The staff members are extremely friendly and even replaced my drink once when I dropped it outside.
+564,drink,1,62,67,The staff members are extremely friendly and even replaced my drink once when I dropped it outside.
+565,atmosphere,2,5,15,Cool atmosphere but such a let down.
+566,Sashimi portion,2,4,19,"The Sashimi portion are big enough to appease most people, but I didn't like the fact they used artifical lobster meat."
+567,artifical lobster meat,0,96,118,"The Sashimi portion are big enough to appease most people, but I didn't like the fact they used artifical lobster meat."
+568,wheat crusted pizza,2,10,29,They have wheat crusted pizza made with really fresh and yummy ingredients.
+569,ingredients,2,63,74,They have wheat crusted pizza made with really fresh and yummy ingredients.
+570,dinner,2,13,19,"Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt."
+571,food,2,53,57,"Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt."
+572,service,2,99,106,"Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt."
+573,cake,2,20,24,"the icing MADE this cake, it was fluffy, not ultra sweet, creamy and light."
+574,staff,0,79,84,"Finally let into the store 5 at a time, to buy expensive slices from a harried staff."
+575,slices,0,57,63,"Finally let into the store 5 at a time, to buy expensive slices from a harried staff."
+576,wait staff,0,82,92,We ended up having to just leave because we were essentially being ignored by the wait staff--even though the rest of the restaurant was largely empty.
+577,wine list,2,4,13,"The wine list is extensive, well priced and covers alot of regions."
+578,priced,2,33,39,"The wine list is extensive, well priced and covers alot of regions."
+579,salads,2,36,42,Go here if you want fresh and tasty salads of any type you can imagine.
+580,bathroom,2,51,59,Everything about this place is adorable - even the bathroom!
+581,delivers,2,7,15,"Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast."
+582,food,2,23,27,"Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast."
+583,prices,2,36,42,"Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast."
+584,service,2,57,64,"Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast."
+585,repast,2,96,102,"Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast."
+586,WAITERS,1,10,17,THEY HAVE WAITERS ON THE SIDEWALK TRYING TO PULL YOU IN WHICH MADE US SUSPICIOUS.
+587,ITALIAN MEAL,1,61,73,IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC ITALIAN MEAL.
+588,pizza,2,53,58,It took 100 years for Parisi to get around to making pizza (at least I don't think they ever made it before this year)...but it was worth the wait.
+589,steak,1,33,38,I asked for a simple medium rare steak.
+590,organic grilled burgers,2,22,45,"Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious."
+591,dish,2,67,71,"Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious."
+592,Jerusalem market-style falafel wraps,2,81,117,"Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious."
+593,"Mediterranean salads--layered with beets, goat cheese and walnuts",2,122,187,"Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious."
+594,dining experience,0,18,35,"Probably my worst dining experience in new york, and I'm a former waiter so I know what I'm talking about."
+595,waiter,1,66,72,"Probably my worst dining experience in new york, and I'm a former waiter so I know what I'm talking about."
+596,texture,2,27,34,"Result (red velvet): Great texture, soft and velvety, nice hint of cocoa."
+597,hint of cocoa,2,59,72,"Result (red velvet): Great texture, soft and velvety, nice hint of cocoa."
+598,round corner table next to the large window,2,12,55,Ask for the round corner table next to the large window.
+599,flavor,2,45,51,"Their twist on pizza is heatlhy, but full of flavor."
+600,twist on pizza,2,6,20,"Their twist on pizza is heatlhy, but full of flavor."
+601,AC,0,12,14,The lack of AC and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.
+602,service,0,164,171,"I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people."
+603,sales people,0,181,193,"I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people."
+604,location,0,77,85,"Unfortunately, unless you live in the neighborhood, it's not in a convenient location but is more like a hidden treasure."
+605,display and quality of the food,0,44,75,Didn't seem like any effort was made to the display and quality of the food.
+606,food,2,4,8,The food--though mostly deep-fried--is simple and satisfying.
+607,food,2,92,96,"Glechik might be way too tiny for a restaurant by Russian standards, but it is cozy and the food is simply GREAT."
+608,food,2,4,8,The food was excellent - authentic Italian cuisine made absolutely fresh.
+609,Italian cuisine,2,35,50,The food was excellent - authentic Italian cuisine made absolutely fresh.
+610,atmoshere,2,13,22,At night the atmoshere changes turning into this hidden jewel that is waiting to be discovered.
+611,booth by the windows,1,75,95,"The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service."
+612,place,2,136,141,"The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service."
+613,food,2,154,158,"The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service."
+614,service,2,163,170,"The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service."
+615,coffee,2,24,30,I would only go for the coffee which is way better than Starbucks or the like.
+616,wine list,0,23,32,Somewhat disappointing wine list (only new vintages.
+617,vintages,0,43,51,Somewhat disappointing wine list (only new vintages.
+618,priced,0,31,37,If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!
+619,food,0,38,42,If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!
+620,scenery,0,65,72,If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!
+621,new hamburger with special sauce,2,0,32,new hamburger with special sauce is ok - at least better than big mac!
+622,big mac,0,62,69,new hamburger with special sauce is ok - at least better than big mac!
+623,pasta,2,19,24,"Perfectly al dente pasta, not drowned in sauce -- generous portions."
+624,sauce,1,41,46,"Perfectly al dente pasta, not drowned in sauce -- generous portions."
+625,portions,2,59,67,"Perfectly al dente pasta, not drowned in sauce -- generous portions."
+626,prices,0,21,27,"I can understand the prices if it served better food, like some Chinese restaurants in midtown/uptown area."
+627,food,0,48,52,"I can understand the prices if it served better food, like some Chinese restaurants in midtown/uptown area."
+628,Service,0,0,7,Service was awful - mostly because staff were overwhelmed on a Saturday night.
+629,staff,0,35,40,Service was awful - mostly because staff were overwhelmed on a Saturday night.
+630,owners,2,7,13,"To the owners; good job guys, this place is a keeper!"
+631,owner,2,8,13,and the owner is simply lovely and friendly.
+632,place,2,12,17,This little place is wonderfully warm welcoming.
+633,meal,2,20,24,perfect for a quick meal.
+634,place,2,51,56,Has the warmth of a family local yet it is a great place to watch sporting events.
+635,service,2,4,11,"The service was great, and they have a whole great deal for birthdays."
+636,staff,2,4,9,The staff is 100% Italian and the food is as authentic as it gets.
+637,food,2,34,38,The staff is 100% Italian and the food is as authentic as it gets.
+638,fortune cookies,0,31,46,My only complaint might be the fortune cookies - I've never had a cookie predict bad luck for me before I visited Kar.
+639,cookie,0,66,72,My only complaint might be the fortune cookies - I've never had a cookie predict bad luck for me before I visited Kar.
+640,sushi lunch,2,17,28,Good for a quick sushi lunch.
+641,mojito,2,7,13,Have a mojito and sit in the back patio.
+642,back patio,2,29,39,Have a mojito and sit in the back patio.
+643,service,0,4,11,The service was dreadfully slow (the place was only half full) and a smile would have been nice...
+644,meal,2,46,50,I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes.
+645,braised lamb shank with mashed potatoes,2,70,109,I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes.
+646,waitress,0,4,12,The waitress came by to pick up the soy sauce WHILE we were eating our lunch!!!!!
+647,soy sauce,1,36,45,The waitress came by to pick up the soy sauce WHILE we were eating our lunch!!!!!
+648,lunch,1,71,76,The waitress came by to pick up the soy sauce WHILE we were eating our lunch!!!!!
+649,bar,1,17,20,"So we sat at the bar, the bartender didn't seem like he wanted to be there."
+650,bartender,0,26,35,"So we sat at the bar, the bartender didn't seem like he wanted to be there."
+651,fried pork dumplings,2,16,36,"I reccomend the fried pork dumplings, the orange chicken/beef, and the fried rice."
+652,orange chicken/beef,2,42,61,"I reccomend the fried pork dumplings, the orange chicken/beef, and the fried rice."
+653,fried rice,2,71,81,"I reccomend the fried pork dumplings, the orange chicken/beef, and the fried rice."
+654,menu,2,58,62,You will not be dissapointed by any of the choices in the menu.
+655,french fries -- with the kalmata dip,2,4,40,The french fries -- with the kalmata dip were terrific!
+656,wait,0,65,69,"Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?"
+657,manager,0,120,127,"Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?"
+658,bartender,1,138,147,"Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?"
+659,drinks,1,161,167,"Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?"
+660,boutique selection of wines,1,4,31,The boutique selection of wines covers a wide variety without being imposeing.
+661,assortment of wraps,2,23,42,They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare.
+662,traditional Mediterranean fare,1,71,101,They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare.
+663,Fresh veggies,2,0,13,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+664,middle eastern spreads,2,28,50,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+665,cheese,2,52,58,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+666,falafel,2,63,70,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+667,soup,2,72,76,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+668,fish,2,78,82,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+669,rice,2,84,88,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+670,root vegetables,2,90,105,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+671,rice medley,2,109,120,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+672,spinach thing,2,127,140,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+673,lamb kebabs,2,142,153,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+674,cheese baclava,2,155,169,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+675,fooood,2,184,190,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious."
+676,Saketini,2,33,41,"Disappointingly, their wonderful Saketini has been taken off the bar menu."
+677,bar menu,0,65,73,"Disappointingly, their wonderful Saketini has been taken off the bar menu."
+678,look,0,79,83,In Short The Black Sheep distinguishes itself from the Midtown pub herd with a look that's a mix of sports-bar butch and ornate kitsch.
+679,martinis,2,63,71,I would definitely go back -- if only for some of those exotic martinis on the blackboard.
+680,chairs,1,56,62,then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.
+681,table,1,84,89,then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.
+682,happy hour,2,4,14,"The happy hour is so cheap, but that does not reflect the service or the atmosphere."
+683,service,2,58,65,"The happy hour is so cheap, but that does not reflect the service or the atmosphere."
+684,atmosphere,2,73,83,"The happy hour is so cheap, but that does not reflect the service or the atmosphere."
+685,waiter,0,38,44,"After waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order."
+686,kitchen,1,90,97,"After waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order."
+687,waiting,0,6,13,"After waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order."
+688,quaility,2,101,109,With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere.
+689,atmosphere,2,114,124,With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere.
+690,space,0,74,79,"A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices."
+691,prices,2,122,128,"A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices."
+692,treats,2,101,107,"A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices."
+693,menu,1,15,19,"Give it a try, menu is typical French but varied."
+694,seats,2,51,56,It gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.
+695,value,2,12,17,"but for the value, it was a great affordable spot to enjoy a fun night out with small group."
+696,food,2,224,228,the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.
+697,attitude,2,145,153,the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.
+698,glass of wine,1,13,26,We ordered a glass of wine and were finished eating and paying before the wine came.
+699,flavors,1,29,36,"It was good, but none of the flavors WOW."
+700,place,2,24,29,"Overall, this is a nice place to take a few friends to hang out at and the service is excellent."
+701,service,2,75,82,"Overall, this is a nice place to take a few friends to hang out at and the service is excellent."
+702,Food,2,0,4,Food is excellent quality for a good restaurant price.
+703,price,2,48,53,Food is excellent quality for a good restaurant price.
+704,burrito,2,42,49,"for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert."
+705,tacos,2,54,59,"for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert."
+706,margarita,1,62,71,"for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert."
+707,dessert,1,77,84,"for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert."
+708,space,1,4,9,The space is traditional in feel.
+709,reservations,1,80,92,"the restaurant was completely empty, but she gave me a dirty look and asked, no reservations?"
+710,food,0,4,8,the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+711,interior,0,39,47,the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+712,owners,0,75,81,the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+713,dining,1,178,184,the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+714,service,2,5,12,"Good service, great food, good value, and never have to wait in line!"
+715,food,2,20,24,"Good service, great food, good value, and never have to wait in line!"
+716,value,2,31,36,"Good service, great food, good value, and never have to wait in line!"
+717,wait,2,56,60,"Good service, great food, good value, and never have to wait in line!"
+718,Egg McMuffin sandwich,1,33,54,Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast.
+719,hot cakes,1,15,24,Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast.
+720,breakfast,1,73,82,Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast.
+721,service,1,64,71,"I have been going to this restaurant for years, in the past the service was average and the food inconsistant."
+722,food,0,92,96,"I have been going to this restaurant for years, in the past the service was average and the food inconsistant."
+723,music,2,4,9,"The music was fascinating, but left room for conversation, and the bartender made superb drinks."
+724,bartender,2,67,76,"The music was fascinating, but left room for conversation, and the bartender made superb drinks."
+725,drinks,2,89,95,"The music was fascinating, but left room for conversation, and the bartender made superb drinks."
+726,rice dishes,2,0,11,rice dishes and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!
+727,noodle dishes,2,16,29,rice dishes and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!
+728,ice drink,2,71,80,rice dishes and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!
+729,Cuisine,0,0,7,Cuisine is billed as asian fusion - doesn't meet the bill.
+730,bill,0,53,57,Cuisine is billed as asian fusion - doesn't meet the bill.
+731,asian fusion,1,21,33,Cuisine is billed as asian fusion - doesn't meet the bill.
+732,billed,0,11,17,Cuisine is billed as asian fusion - doesn't meet the bill.
+733,dishes,2,9,15,Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.
+734,king crab salad with passion fruit vinaigrette,2,21,67,Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.
+735,fettuccine with grilled seafood in a rosemary-orange sauce,2,72,130,Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.
+736,bistro menu,1,183,194,Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.
+737,Dishes,2,0,6,"Dishes denoted as ""Roy's Classics"" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs."
+738,"""Roy's Classics""",2,18,34,"Dishes denoted as ""Roy's Classics"" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs."
+739,menu,1,50,54,"Dishes denoted as ""Roy's Classics"" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs."
+740,recipes,2,90,97,"Dishes denoted as ""Roy's Classics"" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs."
+741,macadamia-crusted mahi mahi,2,107,134,"Dishes denoted as ""Roy's Classics"" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs."
+742,sweet honey-mustard beef short ribs,2,146,181,"Dishes denoted as ""Roy's Classics"" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs."
+743,cold sesame noodles,2,4,23,"The cold sesame noodles, which are a freebie when you order $10+, are delectable."
+744,food,0,75,79,"I came to fresh expecting a great meal, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating."
+745,meal,0,34,38,"I came to fresh expecting a great meal, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating."
+746,served,1,80,86,"I came to fresh expecting a great meal, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating."
+747,argentine chorizo appetizer,0,9,36,The lone argentine chorizo appetizer at $8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $2.99/lb at the store.
+748,fennel flavored Italian sausage,0,58,89,The lone argentine chorizo appetizer at $8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $2.99/lb at the store.
+749,dinner,2,73,79,"I went to Swiftys with some friends of the family and we had a very nice dinner, but nothing amazing."
+750,delivery,2,39,47,"Best Chinese on the Upper East, prompt delivery, good value."
+751,value,2,54,59,"Best Chinese on the Upper East, prompt delivery, good value."
+752,sandwiches,2,12,22,Most of the sandwiches are made with soy mayonaise which is actually pretty good.
+753,soy mayonaise,2,37,50,Most of the sandwiches are made with soy mayonaise which is actually pretty good.
+754,hostess,0,80,87,i went in one day asking for a table for a group and was greeted by a very rude hostess.
+755,table,1,31,36,i went in one day asking for a table for a group and was greeted by a very rude hostess.
+756,dinner,2,61,67,It's worthwhile to take a cab to Chelsea just for an awesome dinner at My Chelsea.
+757,food,2,16,20,"Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine."
+758,staff,2,40,45,"Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine."
+759,food,2,150,154,"Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine."
+760,wine,2,159,163,"Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine."
+761,music,2,12,17,"It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele."
+762,tapas,2,24,29,"It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele."
+763,selection of wines (primarily Spanish),2,46,84,"It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele."
+764,clientele,2,115,124,"It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele."
+765,food,2,4,8,"The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs."
+766,dumplings,2,32,41,"The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs."
+767,cold sesame noodles,2,43,62,"The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs."
+768,chicken,2,64,71,"The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs."
+769,shrimp dishs,2,76,88,"The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs."
+770,food,2,8,12,"And the food, well the food will keep you coming back."
+771,food,2,23,27,"And the food, well the food will keep you coming back."
+772,entrees,1,39,46,Waiting three hours before getting our entrees was a treat as well.
+773,Waiting,0,0,7,Waiting three hours before getting our entrees was a treat as well.
+774,place,2,44,49,It's the conversations that make this a fun place to be.
+775,duck confitte,2,8,21,"My gf's duck confitte was very solid as well, although i have little base of reference."
+776,wine list,2,4,13,"The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation."
+777,tapas,2,30,35,"The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation."
+778,atmosphere,2,62,72,"The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation."
+779,price,2,40,45,You can eat gourmet food at a fast food price.
+780,food,2,20,24,You can eat gourmet food at a fast food price.
+781,food,2,62,66,"I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable."
+782,service,2,72,79,"I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable."
+783,prices,2,108,114,"I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable."
+784,food,2,36,40,"Not because I was pregnant, but the food here is always delicious."
+785,meal,2,12,16,Had a great meal there this weekend before heading to the movies!
+786,food,2,46,50,We had a birthday party here recently and the food and service was amazing.
+787,service,2,55,62,We had a birthday party here recently and the food and service was amazing.
+788,dinner menu,2,4,15,"the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives."
+789,entrees,2,42,49,"the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives."
+790,seafood,2,67,74,"the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives."
+791,steaks,2,84,90,"the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives."
+792,non-meat alternatives,1,117,138,"the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives."
+793,menu,0,29,33,This place has the strangest menu and the restaurants tries too hard to make fancy food.
+794,food,0,83,87,This place has the strangest menu and the restaurants tries too hard to make fancy food.
+795,appetizers,1,4,14,"The appetizers are ok, but the service is slow."
+796,service,0,31,38,"The appetizers are ok, but the service is slow."
+797,food,0,4,8,the food - not worth the price.
+798,price,0,25,30,the food - not worth the price.
+799,waitress,0,41,49,"What can you say about a place where the waitress brings out the wrong entree, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way)."
+800,entree,1,71,77,"What can you say about a place where the waitress brings out the wrong entree, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way)."
+801,prices,2,4,10,The prices are not terrible.
+802,bill,0,40,44,15% gratuity automatically added to the bill.
+803,gratuity,0,4,12,15% gratuity automatically added to the bill.
+804,halibut cheek appetizer,1,4,27,"The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal."
+805,portion of foie gras,2,49,69,"The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal."
+806,Food,2,0,4,Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.
+807,empenadas,2,37,46,Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.
+808,plaintains,2,51,61,Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.
+809,afternoon snack,2,84,99,Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.
+810,pasta specials,2,35,49,Both a number of the appetizer and pasta specials were amazing.
+811,appetizer,2,21,30,Both a number of the appetizer and pasta specials were amazing.
+812,Big Mac,2,31,38,"All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available."
+813,Chicken McNuggets,2,40,57,"All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available."
+814,Filet-O-Fish sandwich,2,59,80,"All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available."
+815,McDonald's famous french fries,2,85,115,"All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available."
+816,entree-sized salads,1,138,157,"All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available."
+817,pizza,2,55,60,"It's a basic pizza joint, not much to look at, but the pizza is what I go for."
+818,Tables,0,0,6,"Tables are close, so you better be comfortable bumping elbows with other patrons."
+819,lunch,1,19,24,Was her Monday for lunch - was working on a film in the area - and found this rare jewel.
+820,scene,2,49,54,"Not too much so, but enough that there's a great scene."
+821,blue bar area,2,8,21,Dug the blue bar area too.
+822,upstrairs dining area,1,89,110,"I got the opportunity to dine at your establishment again a few weeks ago, I was in your upstrairs dining area."
+823,veggie burger,2,47,60,"Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices."
+824,chickpeas,2,95,104,"Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices."
+825,carrots,2,106,113,"Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices."
+826,vegetables,2,124,134,"Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices."
+827,spices,2,139,145,"Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices."
+828,tables,0,49,55,"At peak times, the restaurant is overcrowded and tables are uncomfortably close."
+829,service,2,4,11,The service was on point - what else you would expect from a Ritz?
+830,Menus,1,0,5,"Menus feature seasonal picks, like sweet corn-foie gras brulee."
+831,sweet corn-foie gras brulee,1,35,62,"Menus feature seasonal picks, like sweet corn-foie gras brulee."
+832,Carinthia cheese ravioli with wild mushrooms,2,49,93,"Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce."
+833,caviar-topped sturgeon,2,101,123,"Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce."
+834,green spinach-vodka sauce,2,159,184,"Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce."
+835,burgers,2,46,53,"And these are not small, wimpy fast food type burgers - these are real, full sized patties."
+836,patties,2,83,90,"And these are not small, wimpy fast food type burgers - these are real, full sized patties."
+837,lunch,1,49,54,"There restaurant is very casual, but perfect for lunch, and their delivery service is always very fast."
+838,delivery service,2,66,82,"There restaurant is very casual, but perfect for lunch, and their delivery service is always very fast."
+839,quality,2,32,39,Chinatown definitely has better quality with cheaper prices.
+840,prices,2,53,59,Chinatown definitely has better quality with cheaper prices.
+841,staff person,1,27,39,I had to flag down a third staff person for a fork... so now it's goodbye Little RUDE Pie Company.
+842,fork,1,46,50,I had to flag down a third staff person for a fork... so now it's goodbye Little RUDE Pie Company.
+843,specials,2,12,20,"Go with the specials, and stay away from the salmon. "
+844,salmon,0,45,51,"Go with the specials, and stay away from the salmon. "
+845,pastas,2,4,10,The pastas were pretty good.
+846,Atmosphere,0,0,10,Atmosphere is a bore.
+847,decor,2,4,9,The decor is what initially got me in the door.
+848,wait staff,2,4,14,The wait staff was very attentive and polite.
+849,food,2,35,39,"Great restaurant, and even greater food!"
+850,dishes,2,4,10,The dishes are remarkably tasty and such a cozy and intimate place!
+851,place,2,61,66,The dishes are remarkably tasty and such a cozy and intimate place!
+852,desserts,2,18,26,Save room for the desserts! ;-)
+853,food,2,57,61,"I love the simplicity and respect which was given to the food, as well the staff was freindly and knowledgable."
+854,staff,2,75,80,"I love the simplicity and respect which was given to the food, as well the staff was freindly and knowledgable."
+855,Service,2,0,7,Service was good and so was the atmosphere.
+856,atmosphere,2,32,42,Service was good and so was the atmosphere.
+857,Branzini,1,31,39,MY date and I both ordered the Branzini and both felt the fish was very average.
+858,fish,0,58,62,MY date and I both ordered the Branzini and both felt the fish was very average.
+859,food,2,4,8,"The food was good, the service prompt, and the price very reasonable. "
+860,service,2,23,30,"The food was good, the service prompt, and the price very reasonable. "
+861,price,2,47,52,"The food was good, the service prompt, and the price very reasonable. "
+862,menu,2,10,14,"Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!"
+863,ambiance,2,30,38,"Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!"
+864,service,2,46,53,"Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!"
+865,FOOD,2,58,62,"Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!"
+866,food,2,6,10,"Great food, good wine and an excellent host."
+867,wine,2,17,21,"Great food, good wine and an excellent host."
+868,host,2,39,43,"Great food, good wine and an excellent host."
+869,Pizzas,2,0,6,Pizzas were excellent in addition to appetizers and main courses.
+870,appetizers,2,37,47,Pizzas were excellent in addition to appetizers and main courses.
+871,main courses,2,52,64,Pizzas were excellent in addition to appetizers and main courses.
+872,calamari,2,19,27,"Definitely try the calamari, any pasta, or even the Sliced steak entree."
+873,pasta,2,33,38,"Definitely try the calamari, any pasta, or even the Sliced steak entree."
+874,Sliced steak entree,2,52,71,"Definitely try the calamari, any pasta, or even the Sliced steak entree."
+875,caeser salad,2,4,16,The caeser salad was great.
+876,fried calamari,2,4,18,The fried calamari was even better!
+877,food,2,4,8,The food was good overall. 
+878,food,2,4,8,The food was outstanding and the service was tops.
+879,service,2,33,40,The food was outstanding and the service was tops.
+880,portions,2,4,12,The portions are very large and the service is fantastic!!
+881,service,2,36,43,The portions are very large and the service is fantastic!!
+882,chicken milanese,2,15,31,I recomend the chicken milanese.
+883,tapas,2,10,15,"excellent tapas at great prices, romantic, small but not overly crowed, excellent"
+884,prices,2,25,31,"excellent tapas at great prices, romantic, small but not overly crowed, excellent"
+885,chocolate raspberry cake,2,4,28,"The chocolate raspberry cake is heavenly- not too sweet, but full of flavor."
+886,flavor,2,69,75,"The chocolate raspberry cake is heavenly- not too sweet, but full of flavor."
+887,waiter,2,4,10,"Our waiter was helpful and charming, the food was perfect, and the wine was good, too."
+888,food,2,41,45,"Our waiter was helpful and charming, the food was perfect, and the wine was good, too."
+889,wine,2,67,71,"Our waiter was helpful and charming, the food was perfect, and the wine was good, too."
+890,MEAL,2,23,27,I HAVE NEVER HAD A BAD MEAL(OR BAD SERVICE )@ PIGALLE.
+891,SERVICE,2,35,42,I HAVE NEVER HAD A BAD MEAL(OR BAD SERVICE )@ PIGALLE.
+892,hot dogs,2,5,13,Best hot dogs in the tri-state area.
+893,service,2,4,11,The service was very attentive and very generous.
+894,food,2,21,25,"We had tons of great food, wine, and desserts."
+895,wine,2,27,31,"We had tons of great food, wine, and desserts."
+896,desserts,2,37,45,"We had tons of great food, wine, and desserts."
+897,dining experience,2,14,31,Really Lovely dining experience in the midst of buzzing midtown area.
+898,food,0,4,8,The food really isn't very good and the service is terrible.
+899,service,0,40,47,The food really isn't very good and the service is terrible.
+900,escargot,2,31,39,"Not only do they have the best escargot in town,they always try to accomodate our toddler."
+901,menu,2,55,59,"Between my guest and I, we sampled at least 80% of the menu, and they were all hits."
+902,Deco,2,4,8,The Deco and ambiance was really romantic.
+903,ambiance,2,13,21,The Deco and ambiance was really romantic.
+904,french food,2,35,46,Just go in and sample the greatest french food west of Daniel.
+905,Indian food,2,29,40,"For someone who used to hate Indian food, Baluchi's has changed my mid."
+906,curry,2,10,15,"Finally a curry that I can eat, enjoy and not suffer from gastritis from 3 hours later."
+907,poori,2,16,21,"All are GREAT - poori, naan, paratha all FRESH."
+908,naan,2,23,27,"All are GREAT - poori, naan, paratha all FRESH."
+909,paratha,2,29,36,"All are GREAT - poori, naan, paratha all FRESH."
+910,homemade breads,2,8,23,Try the homemade breads.
+911,sushi,2,25,30,"This place has beautiful sushi, and it's delicious CHEAP. "
+912,Korean dishes,2,26,39,It also has lots of other Korean dishes that are affordable and just as yummy.
+913,prix fixe menu,1,47,61,I went for restaurant week and ordered off the prix fixe menu
+914,waiter,2,17,23,"Not only was the waiter efficient and courteous, but also extremely helpful. "
+915,place,2,5,10,"This place is classy, chic, the service is warm and hospitable, and the food is outstanding."
+916,service,2,32,39,"This place is classy, chic, the service is warm and hospitable, and the food is outstanding."
+917,food,2,72,76,"This place is classy, chic, the service is warm and hospitable, and the food is outstanding."
+918,burgers,2,6,13,"Great burgers, grilled cheeses and french fries."
+919,grilled cheeses,2,15,30,"Great burgers, grilled cheeses and french fries."
+920,french fries,2,35,47,"Great burgers, grilled cheeses and french fries."
+921,Yellowfin Tuna,2,4,18,The Yellowfin Tuna and Calf's liver are my favorites!
+922,Calf's liver,2,23,35,The Yellowfin Tuna and Calf's liver are my favorites!
+923,Sushi,2,0,5,Sushi so fresh that it crunches in your mouth.
+924,bill,0,62,66,But make sure you have enough room on your credit card as the bill will leave a big dent in your wallet.
+925,steak,1,95,100,They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).
+926,choices of sauces,2,68,85,They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).
+927,sauce cart,1,13,23,They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).
+928,table,1,35,40,They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).
+929,sushi,2,17,22,"Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!"
+930,duck,2,136,140,"Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!"
+931,entrees,1,53,60,"Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!"
+932,variety,2,5,12,good variety but nothing surprising.
+933,utensils,1,62,70,"After I paid for my purchase, I noticed they had not given me utensils so I could eat my pie."
+934,pie,1,89,92,"After I paid for my purchase, I noticed they had not given me utensils so I could eat my pie."
+935,thin crust,0,28,38,Likewise if you like really thin crust or really big slices then Nick and Joe's may not be your favorite.
+936,slices,0,53,59,Likewise if you like really thin crust or really big slices then Nick and Joe's may not be your favorite.
+937,green beans,1,3,14,"No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion."
+938,egg,1,19,22,"No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion."
+939,anchovy dressing,1,27,43,"No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion."
+940,nicoise olives,1,48,62,"No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion."
+941,red onion,1,67,76,"No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion."
+942,meal,1,8,12,"Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix."
+943,Amazin' Greens salads,1,35,56,"Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix."
+944,Buffalo Chicken Kickers,1,58,81,"Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix."
+945,Cinna Stix,1,86,96,"Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix."
+946,side orders,1,18,29,"Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix."
+947,fries,1,6,11,"Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty."
+948,meaty chili,1,13,24,"Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty."
+949,stuffed baked potatoes,1,29,51,"Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty."
+950,menu,1,64,68,"Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty."
+951,chocolate Frosty,2,103,119,"Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty."
+952,waiter,1,32,38,I always find myself asking the waiter to make something bland and different than what is on the menu.
+953,menu,1,97,101,I always find myself asking the waiter to make something bland and different than what is on the menu.
+954,cake,0,35,39,"Good cake BUT: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees."
+955,employees,0,168,177,"Good cake BUT: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees."
+956,Cherry Marscapone,1,31,48,"The closest that I got was the Cherry Marscapone, but they were out of it that day."
+957,roti canai appetizer,2,54,74,"The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour."
+958,mango chicken,2,143,156,"The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour."
+959,fried pancake served with pungent curry dipping sauce,2,78,131,"The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour."
+960,outside,0,33,40,"It doesn't look like much on the outside, but the minute you walk inside, it's a whole other atmosphere."
+961,atmosphere,2,93,103,"It doesn't look like much on the outside, but the minute you walk inside, it's a whole other atmosphere."
+962,ground chickpea soup,0,4,24,The ground chickpea soup we sampled as a starter tasted somewhat thin.
+963,starter,1,41,48,The ground chickpea soup we sampled as a starter tasted somewhat thin.
+964,sushi,0,31,36,"We requested they re-slice the sushi, and it was returned to us in small cheese-like cubes."
+965,service,0,4,11,"The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game."
+966,quality of food,2,48,63,"The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game."
+967,bartenders,0,74,84,"The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game."
+968,clientele,0,95,104,"The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game."
+969,staff,0,206,211,"The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game."
+970,meal,2,62,66,"If you're in the neighborhood, definitely stop by for a great meal."
+971,desserts,1,72,80,"Unfortunately, with our show tickets, we didn't have time to sample any desserts."
+972,tables,0,10,16,Make more tables- perhaps a rooftop bar?
+973,rooftop bar,1,28,39,Make more tables- perhaps a rooftop bar?
+974,decoration,2,4,14,"The decoration was feeling like we was on the Cairo, actually the street is part of that adventure."
+975,ambience,2,33,41,"Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service."
+976,food,2,53,57,"Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service."
+977,catfish,2,63,70,"Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service."
+978,service,2,133,140,"Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service."
+979,food,1,22,26,I didn't go there for food so I can't comment.
+980,brisket,2,40,47,"Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great."
+981,ribs,2,49,53,"Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great."
+982,wings,2,55,60,"Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great."
+983,cajun shrimp,1,62,74,"Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great."
+984,atmosphere,2,61,71,"Hip boutiques and bars on Ludlow add to the artsy, laid-back atmosphere at this Israeli-style takeout and eat-in burger joint."
+985,counter,1,41,48,"Young neighborhood trendies graze at the counter during the day, while chic, art-house drinkers with heavy doses of the munchies pile in late at night."
+986,bottle of wine,1,22,36,Bring your date and a bottle of wine!
+987,menu,2,37,41,"My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few."
+988,Japanese dishes,1,71,86,"My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few."
+989,Foie Gras Unagi Napolean,1,95,119,"My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few."
+990,Jap style hamburger steak,1,121,146,"My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few."
+991,spicy cod roe spaghetti,1,148,171,"My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few."
+992,black cod with miso base,1,173,197,"My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few."
+993,rack of lamb in black truffle sauce,1,203,238,"My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few."
+994,food,2,4,8,"His food is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14)."
+995,appetizers,2,85,95,"His food is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14)."
+996,entrees,2,62,69,"His food is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14)."
+997,food,2,4,8,The food is consistant and good but how it got name Best Diner In Manhattan is beyond me.
+998,pasta primavera,2,4,19,"The pasta primavera was outstanding as well, lots of fresh veggies."
+999,fresh veggies,2,53,66,"The pasta primavera was outstanding as well, lots of fresh veggies."
+1000,sushi,2,21,26,"don't get me wrong - sushi was good, just not fantastic."
+1001,flan,2,47,51,Being Puerto Rican I know a thing or two about flan and this place serves one of the best (I hope Mom doesn't read this!).
+1002,pizza,2,98,103,"Been to the one in Brooklyn for over 25 years, now I dont have to go over the bridge for the best pizza ....Hanx"
+1003,dinner,1,4,10,Had dinner here on a Friday and the food was great.
+1004,food,2,36,40,Had dinner here on a Friday and the food was great.
+1005,wine,2,89,93,"We recently spent New Year's Eve at the restaurant, and had a great experience, from the wine to the dessert menu."
+1006,dessert menu,2,101,113,"We recently spent New Year's Eve at the restaurant, and had a great experience, from the wine to the dessert menu."
+1007,place,2,139,144,"Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice."
+1008,bar,2,156,159,"Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice."
+1009,takeout,1,102,109,"Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice."
+1010,ambiance,2,4,12,"The ambiance was fine, a little loud but still nice and romantic."
+1011,cocktail hour,2,47,60,"but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection)."
+1012,filet mignon,0,9,21,"but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection)."
+1013,non-sushi selection,2,92,111,"but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection)."
+1014,appetizers,2,75,85,"but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection)."
+1015,courses,1,45,52,It took about 2 1/2 hours to be served our 2 courses.
+1016,served,0,32,38,It took about 2 1/2 hours to be served our 2 courses.
+1017,place,1,21,26,Who said go when the place is quiet during the day?
+1018,size,0,51,55,Can be a bit busy around peak times because of the size.
+1019,chicken tacos,2,121,134,"I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade."
+1020,Hibiscus lemonade,2,139,156,"I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade."
+1021,place,2,102,107,"I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade."
+1022,place,2,5,10,good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.
+1023,soup,1,73,77,good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.
+1024,french dish,1,89,100,good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.
+1025,glass of wine,1,108,121,good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.
+1026,place,2,40,45,Very nice touch that very much fits the place.
+1027,casual drink,2,97,109,"However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile."
+1028,outdoors,2,54,62,"However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile."
+1029,place,2,135,140,"However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile."
+1030,dance floor,1,50,61,We were seated promptly in close proximity to the dance floor.
+1031,pre-show meal,1,21,34,"If you are here as a pre-show meal, hop in a cab and take the extra 10 minutes to go to the uptown location."
+1032,fried foods,0,19,30,"The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good."
+1033,dishes,2,64,70,"The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good."
+1034,lamb entree,2,86,97,"The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good."
+1035,salads (avocado shrimp),2,114,137,"The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good."
+1036,service,0,5,12,"Slow service, but when you're hanging around with groups of 10 or 20, who really notices?"
+1037,dabs of real mozzarella,1,41,64,The sauce is excellent (very fresh) with dabs of real mozzarella.
+1038,sauce,2,4,9,The sauce is excellent (very fresh) with dabs of real mozzarella.
+1039,drinks,0,24,30,"Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining."
+1040,people,0,58,64,"Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining."
+1041,dining,0,126,132,"Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining."
+1042,room,0,4,8,"The room is a little plain, but it's difficult to make such a small place exciting and I would not suggest that as a reason not to go."
+1043,place,0,68,73,"The room is a little plain, but it's difficult to make such a small place exciting and I would not suggest that as a reason not to go."
+1044,Prices,2,0,6,Prices even outside of restaurant week were great.
+1045,space,2,62,67,"A small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends."
+1046,outdoor eating area,2,9,28,"A small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends."
+1047,[female] servers,2,12,28,"And all the [female] servers are cute too, which is always nice."
+1048,dessert,2,9,16,"The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets."
+1049,chocolate and peanut butter tart,2,20,52,"The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets."
+1050,sweets,1,123,129,"The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets."
+1051,appetizer,1,7,16,"for an appetizer, their calamari is a winner."
+1052,calamari,2,24,32,"for an appetizer, their calamari is a winner."
+1053,service,2,62,69,Satay is one of those favorite haunts on Washington where the service and food is always on the money.
+1054,food,2,74,78,Satay is one of those favorite haunts on Washington where the service and food is always on the money.
+1055,dinner,1,6,12,After dinner I heard music playing and discovered that there is a lounge downstairs.
+1056,music,1,21,26,After dinner I heard music playing and discovered that there is a lounge downstairs.
+1057,lounge,1,66,72,After dinner I heard music playing and discovered that there is a lounge downstairs.
+1058,room,2,4,8,"The room is a gorgeous, bi-level space and the long bar perfect for a drink."
+1059,bi-level space,2,24,38,"The room is a gorgeous, bi-level space and the long bar perfect for a drink."
+1060,long bar,2,47,55,"The room is a gorgeous, bi-level space and the long bar perfect for a drink."
+1061,drink,1,70,75,"The room is a gorgeous, bi-level space and the long bar perfect for a drink."
+1062,appetizer selection,0,22,41,"Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu."
+1063,mozzarella sticks,1,79,96,"Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu."
+1064,menu,0,104,108,"Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu."
+1065,waitstaff,2,58,67,I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party.
+1066,service,2,179,186,I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party.
+1067,chicken and falafel platters,1,4,32,The chicken and falafel platters were nondescript combinations with fresh leaf salad.
+1068,fresh leaf salad,1,68,84,The chicken and falafel platters were nondescript combinations with fresh leaf salad.
+1069,atmosphere,2,4,14,"The atmosphere takes you to that place, the place many dream of."
+1070,waiters,0,34,41,"several times and put up with the waiters' bad manners, knowing that their job isn't easy."
+1071,desserts,2,89,97,"The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good..."
+1072,coffee,2,120,126,"The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good..."
+1073,served,1,9,15,They are served on Focacchia bread and are to die for.
+1074,Focacchia bread,1,19,34,They are served on Focacchia bread and are to die for.
+1075,smoothies,0,10,19,"While the smoothies are a little big for me, the fresh juices are the best I have ever had!"
+1076,fresh juices,2,49,61,"While the smoothies are a little big for me, the fresh juices are the best I have ever had!"
+1077,pialla,2,81,87,"The food is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only dish that's really good."
+1078,dish,2,107,111,"The food is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only dish that's really good."
+1079,fresh salsa,1,58,69,"The guac is fresh, yet lacking flavor, we like to add our fresh salsa into it."
+1080,flavor,0,31,37,"The guac is fresh, yet lacking flavor, we like to add our fresh salsa into it."
+1081,prices,0,116,122,"The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone."
+1082,new menu,2,4,12,"The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone."
+1083,lunch,1,18,23,It' only open for lunch but the food is so good!
+1084,food,2,32,36,It' only open for lunch but the food is so good!
+1085,seafood,2,12,19,If you like seafood and/or Greek food you will love this place though it is not limited to just these things.
+1086,Greek food,2,27,37,If you like seafood and/or Greek food you will love this place though it is not limited to just these things.
+1087,menu,1,6,10,""" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as ""vegetarians."
+1088,burgers,1,30,37,""" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as ""vegetarians."
+1089,steaks,1,39,45,""" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as ""vegetarians."
+1090,shepherds pie,1,50,63,""" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as ""vegetarians."
+1091,portabella lasagna,1,76,94,""" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as ""vegetarians."
+1092,pub fare,1,20,28,""" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as ""vegetarians."
+1093,food,1,38,42,How can they survive serving mediocre food at exorbitant prices?!
+1094,prices,0,57,63,How can they survive serving mediocre food at exorbitant prices?!
+1095,service,0,30,37,The food was mediocre and the service was severely slow.
+1096,food,1,4,8,The food was mediocre and the service was severely slow.
+1097,food,1,48,52,i have eaten here on a different occasion - the food is mediocre for the prices.
+1098,prices,0,73,79,i have eaten here on a different occasion - the food is mediocre for the prices.
+1099,menu,2,84,88,I'm looking forward to going back soon and eventually trying most everything on the menu!
+1100,menu,1,101,105,I just had my first visit to this place and can't wait to go back and slowly work my way through the menu.
+1101,waiter,0,107,113,I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter.
+1102,meal,1,42,46,I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter.
+1103,brunch,1,22,28,I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk.
+1104,vegan cranberry pancakes,1,47,71,I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk.
+1105,rice milk,1,81,90,I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk.
+1106,bartender,2,12,21,Sweet Irish bartender is always happy and able to bring a smile to my friends a my face.
+1107,service,0,124,131,Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.
+1108,drink,1,106,111,Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.
+1109,drinks,1,25,31,Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.
+1110,owner,0,12,17,"Anyway, the owner was fake."
+1111,Owner,2,0,5,Owner is pleasant and entertaining.
+1112,food,0,34,38,"I have never in my life sent back food before, but I simply had to, and the waiter argued with me over this."
+1113,waiter,0,76,82,"I have never in my life sent back food before, but I simply had to, and the waiter argued with me over this."
+1114,food,0,67,71,"Although the restaurant itself is nice, I prefer not to go for the food."
+1115,Creamy appetizers,2,0,17,"Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas."
+1116,warm pitas,1,125,135,"Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas."
+1117,taramasalata,2,19,31,"Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas."
+1118,eggplant salad,2,33,47,"Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas."
+1119,"Greek yogurt (with cuccumber, dill, and garlic)",2,53,100,"Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas."
