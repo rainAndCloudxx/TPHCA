@@ -32,13 +32,15 @@ Constructed by Dong et al. based on corpus from the Twitter social platform. The
 
 You can get the original datasets from the following links:
 
-<!-- MOH-X -->
 - Laptop: [https://aclanthology.org/S16-1002/](https://aclanthology.org/S16-1002/)
-<!-- TroFi -->
 - Restaurants: [https://aclanthology.org/S16-1002/](https://aclanthology.org/S16-1002/)
-  
-<!-- VUA-18 and VUA-20 -->
-
 - Twitter: [https://aclanthology.org/P14-2009/](https://aclanthology.org/P14-2009/)
-
 <br>
+
+## Running
+
+Run the following command for training:<br>
+`python main.py`
+
+- Based on the experimental results on roberta-base, TPHCA achieved excellent F1 sources of 88.64, 87.53, and 88.77 on the Laptop, Restaurants, and Twitter datasets, respectively, all of which were better than the existing baseline models.
+- Download Pytorch RoBERTa model from Huggingface https://huggingface.co/roberta-base and put in the folder `roberta-base`.
